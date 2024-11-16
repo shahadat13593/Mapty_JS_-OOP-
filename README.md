@@ -43,8 +43,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**  
    ```bash  
-   git clone https://github.com/your-username/fitness-tracker-app.git  
-   cd fitness-tracker-app
+   https://github.com/shahadat13593/Mapty_JS_-OOP-.git
    ```
 2. **Open the project**     
 - Simply open the index.html file in your browser to run the app.
